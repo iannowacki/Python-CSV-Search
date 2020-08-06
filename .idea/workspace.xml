@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65137544-8132-4a52-b9a8-e0943f2487a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shows2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
